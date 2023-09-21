@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-deployment
-        image: thanhlam2k4/test_app:4.0.0
+        image: thanhlam2k4/test_app:6.0.0
         resources:
           limits:
             memory: "128Mi"
