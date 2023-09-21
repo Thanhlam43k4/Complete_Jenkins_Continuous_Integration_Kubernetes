@@ -18,13 +18,20 @@ Prequesites:
 
 Proceeding:
 - Open your jenkins web (http://localhost:8081 in my case normally is http://localhost:8080)
+  
 - Make Credentials for Jenkins Pipeline:
   +  In jenkins Dashboard ->> Manage Jenkins ->> Security ->> Credentials:
   +  Click to Add Credentials and add your Credentials of dockerhub account and GitHub account
      in my case are new_git_Cre(GitHub Credentials) and dockerhub_Cre_new(dockerhub Credentials)   
   +  Then in Jenkinsfile you change the credentialsId of GitHub and Dockerregistry.
+    
 - Create a new Jobs and use Pipeline item
--
+  + Scroll down to Pipeline. You have two options
+                              -Pipeline Script (Copy Jenkinsfile in your updated repo in this space)
+                              -Pipeline Script from SCM(If you have GitHub account and Push your code in this)
+    
+-Then Click ->> Apply ->> Save 
+-Finished you can build project now
 
 
 
