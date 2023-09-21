@@ -21,8 +21,7 @@ Proceeding:
 - Make Credentials for Jenkins Pipeline:
   +  In jenkins Dashboard ->> Manage Jenkins ->> Security ->> Credentials:
   +  Click to Add Credentials and add your Credentials of dockerhub account and GitHub account
-     in my case are new_git_Cre(GitHub Credentials) and dockerhub_Cre_new(dockerhub   
-     Credentials)
+     in my case are new_git_Cre(GitHub Credentials) and dockerhub_Cre_new(dockerhub Credentials)   
   +  Then in Jenkinsfile you change the credentialsId of GitHub and Dockerregistry.
 - Create a new Jobs and use Pipeline item
 -
