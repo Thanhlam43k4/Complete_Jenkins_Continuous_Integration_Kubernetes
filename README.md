@@ -1,4 +1,4 @@
-Nguyen Thanh Lam-UETK2K67
+
 
 -----Complete CI process with Jenkins and some tools------
 
@@ -33,5 +33,9 @@ Proceeding:
 -Then Click ->> Apply ->> Save 
 -Finished you can build project now
 
+
+
+
+Author:Nguyen Thanh Lam-UETK2K67
 
 
