@@ -8,7 +8,7 @@
 + Kubernetes: open-source system for automating deployment, scaling, and management of containerized applications.
 +DockerHub: is the world's largestlibrary and community for container images.
 
-Prequesites:
+**Prequesites:**
 + Install docker and minikube in Local Machine.
 + Containerized Jenkins Image and SonarQubeScanner.
 + Clone this Repo in your Local Machine.
@@ -16,8 +16,9 @@ Prequesites:
 + Install Docker and Maven tools for build to Docker Hub .
 + Dowload kubectl for kubernetes command line.
 
-Proceeding:
-1.Continuous Integration and deploy images in Dockerhub.
+**Proceeding:**
+
+**1.Continuous Integration and deploy images in Dockerhub.**
 - Open your jenkins web (http://localhost:8081 in my case normally is http://localhost:8080)
   
 - Make Credentials for Jenkins Pipeline:
@@ -35,7 +36,7 @@ Proceeding:
 
 -Finished you can build project now
 
-2.Deploy application in k8s locally
+**2.Deploy application in k8s locally**
 
 - Command(To boostrapp Kubernetes cluster in Minikube):
   
