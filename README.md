@@ -9,7 +9,7 @@
 +DockerHub: is the world's largestlibrary and community for container images.
 
 
-<img align = "center" alt = "coding" width = "200" src = "https://tse2.mm.bing.net/th?id=OIP.Y0E3jRjyztQ0-5LKTxBb1gHaDj&pid=Api&P=0&h=180">
+<img align = "center" alt = "coding" width = "400" src = "https://tse2.mm.bing.net/th?id=OIP.Y0E3jRjyztQ0-5LKTxBb1gHaDj&pid=Api&P=0&h=180">
 
 
 **Prequesites:**
